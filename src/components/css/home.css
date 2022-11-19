@@ -1,0 +1,48 @@
+.homeCommon{
+    height: 500px;
+    background:url('../assets/forestbridge.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .bottomleft {
+    position: absolute;
+    bottom: 0;
+    left: 16px;
+  }
+  .topright {
+    position: absolute;
+    top: 0;
+    margin-top: 1rem;
+    right: 16px;
+  }
+  .css-4pdmu4-MuiBreadcrumbs-ol{
+    color: white !important;
+  }
+  .css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input{
+    color: white !important;
+  }
+  .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+    color: white !important;
+  }
+  .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: white !important;
+    color: white !important;
+  }
+  .css-1pysi21-MuiFormLabel-root-MuiInputLabel-root {
+    color:white !important;
+  }
+  .css-1pysi21-MuiFormLabel-root-MuiInputLabel-root .Mui-focused{
+    color:white !important;
+  }

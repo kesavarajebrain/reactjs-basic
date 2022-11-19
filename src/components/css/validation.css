@@ -1,0 +1,11 @@
+.customClass .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: black !important;
+    color: black !important;
+  }
+
+  .customClass .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+    color: black !important;
+  }
+  TextareaAutosize{
+      resize: none !important;
+  }
