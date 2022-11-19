@@ -5,7 +5,8 @@ function DeployNote() {
     <div>
         <h4>Deploy Note</h4>
         <br></br>
-        <h5>1.firebase login</h5>
+        {/* kesavarajtry@gmail.com */}
+        <h5>1.firebase login</h5> 
         <h5>2.firebase init - Now type <b>YES</b> as we are ready to proceed.</h5>
         <h5>3.Select <b>Hosting</b> from the options provided</h5>
         <h5>4.Select the Use an existing project</h5>
